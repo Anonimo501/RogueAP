@@ -11,6 +11,6 @@ en esta version y con ayuda de un analizador de trafico como wireshark podremos 
 
 git clone https://github.com/Anonimo501/RogueAP.git
 
-cd RogueAP
+cd RogueAP \n
 chmod +x RogueAP.sh
 ./RogueAP
