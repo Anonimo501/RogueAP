@@ -6,6 +6,7 @@ RogueAP es creado en bash de linux, el cual es un script automatizado de instala
 en esta version y con ayuda de un analizador de trafico como wireshark podremos obtener contraseñas de los protocolos inseguros tales como http, ftp, telnet, etc.
 
 
+## Sistema Operativo y Antena
 Las pruebas se llevaron a cabo en un sistema operativo Parrot OS y con una antena tl-wn721n tp-link
 
 
